@@ -99,11 +99,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request with a detailed description.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or feedback, contact [Your Name] at [your.email@example.com] or open an issue on GitHub.
 
 ---
 *Developed as a personal/academic project to demonstrate Java, OOP, and database integration.*
