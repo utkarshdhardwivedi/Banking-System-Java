@@ -42,8 +42,8 @@ The project addresses inefficiencies in manual banking processes by automating a
    - Install MySQL and set up a database named `BankingSystem`.
    - Update credentials in `JDBC_Database.java`:
      ```java
-     public static final String USER = "your-username";
-     public static final String PWD = "your-password";
+     public static final String USER = "root";
+     public static final String PWD = "Rajat@9451";
      ```
 
 3. **Add MySQL Connector/J**:
